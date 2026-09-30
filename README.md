@@ -12,10 +12,10 @@
 
 ## Latest release / Последний релиз
 
-**1.0.8**
+**1.0.9**
 
-* [PotokCam MFVC Setup 1.0.8](https://github.com/PotokCam/PC/releases/download/1.0.8/PotokCam-MFVC-Setup-1.0.8.exe)
-* [PotokCam Legacy Setup 1.0.8](https://github.com/PotokCam/PC/releases/download/1.0.8/PotokCam-Legacy-Setup-1.0.8.exe)
+* [PotokCam MFVC Setup 1.0.9](https://github.com/PotokCam/PC/releases/download/1.0.9/PotokCam-MFVC-Setup-1.0.9.exe)
+* [PotokCam Legacy Setup 1.0.9](https://github.com/PotokCam/PC/releases/download/1.0.9/PotokCam-Legacy-Setup-1.0.9.exe)
 
 ## Versions / Версии
 
